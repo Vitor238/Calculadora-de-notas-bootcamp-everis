@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Calculadora de notas</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="calcular">Calcular</string>
+    <string name="faltas">Faltas</string>
+    <string name="resultado_aprovado">O Aluno foi aprovado \n Nota final: %d \n Faltas: %d </string>
+    <string name="resultado_reprovado">O Aluno foi reprovado \n Nota final: %d \n Faltas: %d </string>
 </resources>
